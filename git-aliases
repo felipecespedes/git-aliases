@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# see https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+git config --global alias.ch checkout
+git config --global alias.pl pull
+git config --global alias.co "commit -m"
+git config --global alias.ps push
+git config --global alias.st status
+git config --global alias.cun "config user.name"
+git config --global alias.cue "config user.email"
+git config --global alias.rao "remote add origin"
+git config --global alias.cp cherry-pick
+git config --global alias.me merge
