@@ -14,4 +14,4 @@ git config --global alias.cue "config user.email"
 git config --global alias.rao "remote add origin"
 git config --global alias.cp cherry-pick
 git config --global alias.me merge
-echo "git aliases were added"
+echo "git aliases were added successfully"
