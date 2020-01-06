@@ -11,17 +11,17 @@ curl -sL https://raw.githubusercontent.com/felipecespedes/git-aliases/master/git
 
 ## Aliases
 
-- co "commit -m"
-- pl pull
-- ft fetch
-- ps push
-- ch checkout
-- st status
-- me merge
-- cp cherry-pick
-- cun "config user.name"
-- cue "config user.email"
-- rao "remote add origin"
+- co -> commit -m
+- pl -> pull
+- ft -> fetch
+- ps -> push
+- ch -> checkout
+- st -> status
+- me -> merge
+- cp -> cherry-pick
+- cun -> config user.name
+- cue -> config user.email
+- rao -> remote add origin
 
 ## Authors
 
